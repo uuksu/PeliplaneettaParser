@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeliplaneettaParser", "PeliplaneettaParser\PeliplaneettaParser.csproj", "{BC09D40E-0C72-41EB-94DF-DA47BB4F38CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeliplaneettaParser", "..\..\Documents\Visual Studio 2017\Projects\PeliplaneettaParser\PeliplaneettaParser\PeliplaneettaParser.csproj", "{EDDD25A0-F382-445F-AE19-A8FB25FCC264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeliplaneettaParser.Model", "..\..\Documents\Visual Studio 2017\Projects\PeliplaneettaParser\PeliplaneettaParser.Model\PeliplaneettaParser.Model.csproj", "{12685E79-D9D7-4564-8A83-EDF6E4D27336}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BC09D40E-0C72-41EB-94DF-DA47BB4F38CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC09D40E-0C72-41EB-94DF-DA47BB4F38CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC09D40E-0C72-41EB-94DF-DA47BB4F38CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC09D40E-0C72-41EB-94DF-DA47BB4F38CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDD25A0-F382-445F-AE19-A8FB25FCC264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDD25A0-F382-445F-AE19-A8FB25FCC264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDD25A0-F382-445F-AE19-A8FB25FCC264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDD25A0-F382-445F-AE19-A8FB25FCC264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12685E79-D9D7-4564-8A83-EDF6E4D27336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12685E79-D9D7-4564-8A83-EDF6E4D27336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12685E79-D9D7-4564-8A83-EDF6E4D27336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12685E79-D9D7-4564-8A83-EDF6E4D27336}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
